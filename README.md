@@ -3,7 +3,7 @@
 > 一份由"编码小白"在AI协作编程过程中踩坑总结、利用AI整理的项目管理规范
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![GitHub stars](https://img.shields.io/github/stars/muwei/ai-project-management-specification.svg)](https://github.com/muwei/ai-project-management-specification/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/muwei-hub/ai-project-management-specification.svg)](https://github.com/muwei-hub/ai-project-management-specification/stargazers)
 
 ## 📖 项目背景
 
@@ -97,11 +97,6 @@ ai-project-management-specification/
 - 📝 提交 Issue 报告问题或建议
 - 🔧 提交 Pull Request 贡献代码或文档
 - 💬 在 Discussions 分享使用经验
-
-## 📧 联系方式
-
-- GitHub: [@muwei](https://github.com/muwei)
-- Email: 18611888295@163.com
 
 ---
 
