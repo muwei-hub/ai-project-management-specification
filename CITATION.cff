@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "AI项目管理规范完整版"
+message: "如果这份规范对您的工作有帮助，请按以下格式引用"
+version: 1.3.0
+date-released: 2026-05-01
+url: "https://github.com/ai-project-management/ai-project-management-specification"
+authors:
+  - family-names: "项目组"
+    given-names: "AI协作开发团队"
+repository-code: "https://github.com/ai-project-management/ai-project-management-specification"
+license: CC-BY-4.0
+keywords:
+  - AI Project Management
+  - CPMAI
+  - MLOps
+  - AI Governance
+  - Software Engineering
+  - AI Development
+abstract: |
+  本规范为AI协作开发项目提供完整的管理框架，涵盖：
+  - 需求管理规范：需求门禁、场景闭环验证
+  - 数据管理规范：数据质量门禁、隐私合规审查
+  - 开发技术规范：代码规范、测试规范、安全规范
+  - 项目阶段规范：启动、测试、部署、运维、变更
+  适用于所有使用AI辅助开发的项目团队
+references:
+  - type: article
+    title: "CPMAI Methodology"
+    authors:
+      - name: "Certifications Professional for AI (CPMAI)"
+    url: "https://www.cpmaicertification.org/"
+  - type: standard
+    title: "ISO 42001 - Artificial Intelligence Management System"
+    authors:
+      - name: "International Organization for Standardization"
+    year: 2023
+  - type: standard
+    title: "GB/T 45654-2025 - 生成式AI服务安全基本要求"
+    authors:
+      - name: "国家标准化管理委员会"
+    year: 2025
+  - type: standard
+    title: "T/TAF 320-2025 - 大型语言模型管理指南"
+    authors:
+      - name: "电信终端行业协会"
+    year: 2025
